@@ -1,0 +1,1300 @@
+[
+    {
+        "category": "HTML & CSS",
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Hyper Tool Markup Language"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which tag is used to create a paragraph?",
+        "options": [
+            "p - tag",
+            "div - tag",
+            "span - tag",
+            "img - tag"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property changes text color?",
+        "options": [
+            "background",
+            "font-size",
+            "color",
+            "text-align"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag is used for a hyperlink?",
+        "options": [
+            "a - tag",
+            "link - tag",
+            "href - tag",
+            "url - tag"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag is used to insert an image?",
+        "options": [
+            "image - tag",
+            "img - tag",
+            "picture - tag",
+            "src - tag"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property changes the background color?",
+        "options": [
+            "color",
+            "background-color",
+            "bgcolor",
+            "background-image"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag creates a line break?",
+        "options": [
+            "break - tag",
+            "br - tag",
+            "lb - tag",
+            "hr - tag"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property makes text bold?",
+        "options": [
+            "font-style",
+            "font-weight",
+            "text-weight",
+            "bold"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which tag creates the largest heading?",
+        "options": [
+            "heading - tag",
+            "head - tag",
+            "h1 - tag",
+            "h6 - tag"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property changes text size?",
+        "options": [
+            "font-size",
+            "text-size",
+            "size",
+            "font-style"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag creates an unordered list?",
+        "options": [
+            "ol - tag",
+            "ul - tag",
+            "li - tag",
+            "list - tag"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag creates a table row?",
+        "options": [
+            "td - tag",
+            "table - tag",
+            "tr - tag",
+            "th - tag"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property aligns text to the center?",
+        "options": [
+            "align",
+            "text-align",
+            "center",
+            "justify"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag is used for inserting videos?",
+        "options": [
+            "video - tag",
+            "media - tag",
+            "movie - tag",
+            "mp4 - tag"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property adds space inside an element?",
+        "options": [
+            "margin",
+            "padding",
+            "border",
+            "spacing"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property adds space outside an element?",
+        "options": [
+            "padding",
+            "margin",
+            "border",
+            "spacing"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag is used for forms?",
+        "options": [
+            "input - tag",
+            "form - tag",
+            "label - tag",
+            "button - tag"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which HTML tag creates a button?",
+        "options": [
+            "input - tag",
+            "button - tag",
+            "btn - tag",
+            "click - tag"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS property rounds the corners of a box?",
+        "options": [
+            "border-style",
+            "border-radius",
+            "radius",
+            "round"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "HTML & CSS",
+        "question": "Which CSS layout system uses rows and columns?",
+        "options": [
+            "Flexbox",
+            "Grid",
+            "Float",
+            "Position"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "JavaScript is a ______.",
+        "options": [
+            "Programming Language",
+            "Database",
+            "Operating System",
+            "Browser"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which keyword declares a variable?",
+        "options": [
+            "let",
+            "int",
+            "char",
+            "float"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which company developed JavaScript?",
+        "options": [
+            "Microsoft",
+            "Netscape",
+            "Google",
+            "Apple"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which symbol is used for comments in JavaScript?",
+        "options": [
+            "//",
+            "#",
+            "!",
+            "**"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which function displays output in the console?",
+        "options": [
+            "print()",
+            "console.log()",
+            "echo()",
+            "display()"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which keyword is used to declare a constant?",
+        "options": [
+            "let",
+            "const",
+            "var",
+            "static"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which operator checks both value and data type?",
+        "options": [
+            "==",
+            "=",
+            "===",
+            "!="
+        ],
+        "answer": 2
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which method is used to display an alert box?",
+        "options": [
+            "prompt()",
+            "alert()",
+            "confirm()",
+            "console.log()"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which loop runs at least once?",
+        "options": [
+            "for",
+            "while",
+            "do...while",
+            "forEach"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which keyword is used to create a function?",
+        "options": [
+            "function",
+            "func",
+            "define",
+            "method"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which event occurs when a button is clicked?",
+        "options": [
+            "onhover",
+            "onclick",
+            "onchange",
+            "onload"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which method selects an element by ID?",
+        "options": [
+            "querySelector()",
+            "getElementById()",
+            "getElementsByClassName()",
+            "getElement()"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which method adds a new element at the end of an array?",
+        "options": [
+            "push()",
+            "pop()",
+            "shift()",
+            "slice()"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which method removes the last element from an array?",
+        "options": [
+            "push()",
+            "shift()",
+            "pop()",
+            "splice()"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which keyword stops a loop?",
+        "options": [
+            "continue",
+            "break",
+            "return",
+            "exit"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which object stores data in the browser permanently?",
+        "options": [
+            "sessionStorage",
+            "localStorage",
+            "cookie",
+            "memoryStorage"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which object represents the current webpage?",
+        "options": [
+            "window",
+            "document",
+            "screen",
+            "navigator"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which method converts JSON into an object?",
+        "options": [
+            "JSON.stringify()",
+            "JSON.parse()",
+            "JSON.convert()",
+            "JSON.object()"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which method converts an object into JSON?",
+        "options": [
+            "JSON.parse()",
+            "JSON.stringify()",
+            "JSON.convert()",
+            "JSON.object()"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "JavaScript",
+        "question": "Which keyword is used to create a class?",
+        "options": [
+            "class",
+            "Class",
+            "object",
+            "new"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which command inserts data into a table?",
+        "options": [
+            "INSERT",
+            "UPDATE",
+            "CREATE",
+            "ADD"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which command deletes data from a table?",
+        "options": [
+            "DELETE",
+            "REMOVE",
+            "DROP",
+            "CLEAR"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which command modifies existing data?",
+        "options": [
+            "CHANGE",
+            "ALTER",
+            "UPDATE",
+            "MODIFY"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Database",
+        "question": "Which command creates a table?",
+        "options": [
+            "CREATE TABLE",
+            "NEW TABLE",
+            "MAKE TABLE",
+            "BUILD TABLE"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which key uniquely identifies a record?",
+        "options": [
+            "Foreign Key",
+            "Candidate Key",
+            "Primary Key",
+            "Alternate Key"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Database",
+        "question": "Which key connects two tables?",
+        "options": [
+            "Primary Key",
+            "Foreign Key",
+            "Candidate Key",
+            "Unique Key"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Database",
+        "question": "Which clause filters records?",
+        "options": [
+            "ORDER BY",
+            "GROUP BY",
+            "WHERE",
+            "HAVING"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Database",
+        "question": "Which clause sorts data?",
+        "options": [
+            "ORDER BY",
+            "SORT",
+            "GROUP BY",
+            "WHERE"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which SQL function counts records?",
+        "options": [
+            "SUM()",
+            "COUNT()",
+            "AVG()",
+            "MAX()"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Database",
+        "question": "Which function finds the highest value?",
+        "options": [
+            "MIN()",
+            "AVG()",
+            "MAX()",
+            "COUNT()"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Database",
+        "question": "Which function finds the lowest value?",
+        "options": [
+            "MIN()",
+            "MAX()",
+            "COUNT()",
+            "AVG()"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which SQL clause groups rows?",
+        "options": [
+            "ORDER BY",
+            "GROUP BY",
+            "WHERE",
+            "LIMIT"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Database",
+        "question": "Which operator checks NULL values?",
+        "options": [
+            "=",
+            "IS NULL",
+            "NULL",
+            "=="
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Database",
+        "question": "Which command removes a table?",
+        "options": [
+            "DELETE TABLE",
+            "DROP TABLE",
+            "REMOVE TABLE",
+            "ERASE TABLE"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Database",
+        "question": "Which command changes a table structure?",
+        "options": [
+            "ALTER TABLE",
+            "UPDATE TABLE",
+            "MODIFY TABLE",
+            "CHANGE TABLE"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which SQL statement creates a database?",
+        "options": [
+            "CREATE DATABASE",
+            "NEW DATABASE",
+            "MAKE DATABASE",
+            "ADD DATABASE"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Database",
+        "question": "Which SQL command removes duplicate records?",
+        "options": [
+            "UNIQUE",
+            "DISTINCT",
+            "GROUP",
+            "ORDER"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Database",
+        "question": "MySQL is a ______.",
+        "options": [
+            "Programming Language",
+            "Database Management System",
+            "Operating System",
+            "Browser"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Linux is a ______.",
+        "options": [
+            "Programming Language",
+            "Operating System",
+            "Database",
+            "Browser"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Who created Linux?",
+        "options": [
+            "Bill Gates",
+            "Linus Torvalds",
+            "Steve Jobs",
+            "Mark Zuckerberg"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command shows the current directory?",
+        "options": [
+            "pwd",
+            "dir",
+            "ls",
+            "cd"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Linux",
+        "question": "Which command lists files?",
+        "options": [
+            "show",
+            "ls",
+            "dir",
+            "list"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command changes directory?",
+        "options": [
+            "pwd",
+            "cd",
+            "mv",
+            "cp"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command creates a new directory?",
+        "options": [
+            "mkdir",
+            "newdir",
+            "makedir",
+            "create"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Linux",
+        "question": "Which command removes a directory?",
+        "options": [
+            "rmdir",
+            "removedir",
+            "delete",
+            "erase"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Linux",
+        "question": "Which command copies files?",
+        "options": [
+            "cp",
+            "mv",
+            "copy",
+            "clone"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Linux",
+        "question": "Which command moves or renames files?",
+        "options": [
+            "cp",
+            "mv",
+            "rename",
+            "move"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command deletes files?",
+        "options": [
+            "erase",
+            "delete",
+            "rm",
+            "remove"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Linux",
+        "question": "Which command clears the terminal screen?",
+        "options": [
+            "clean",
+            "cls",
+            "clear",
+            "reset"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Linux",
+        "question": "Which command displays the current user?",
+        "options": [
+            "who",
+            "whoami",
+            "user",
+            "me"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command displays the current date?",
+        "options": [
+            "calendar",
+            "today",
+            "date",
+            "time"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Linux",
+        "question": "Which command displays the current time?",
+        "options": [
+            "clock",
+            "date",
+            "time",
+            "watch"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command shows file contents?",
+        "options": [
+            "show",
+            "cat",
+            "read",
+            "open"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command finds text in files?",
+        "options": [
+            "find",
+            "grep",
+            "search",
+            "locate"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Linux",
+        "question": "Which command shows running processes?",
+        "options": [
+            "task",
+            "process",
+            "ps",
+            "jobs"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Linux",
+        "question": "Which command displays system uptime?",
+        "options": [
+            "uptime",
+            "time",
+            "status",
+            "system"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Linux",
+        "question": "Which command shuts down Linux?",
+        "options": [
+            "shutdown",
+            "stop",
+            "exit",
+            "off"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Linux",
+        "question": "Linux is an ______ operating system.",
+        "options": [
+            "Open Source",
+            "Closed Source",
+            "Paid Only",
+            "Private"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Firewall is used for?",
+        "options": [
+            "Gaming",
+            "Cooking",
+            "Network Security",
+            "Drawing"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Cyber Security",
+        "question": "What does VPN stand for?",
+        "options": [
+            "Virtual Private Network",
+            "Virtual Public Network",
+            "Verified Private Network",
+            "Visual Private Network"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which attack steals user passwords?",
+        "options": [
+            "Phishing",
+            "Painting",
+            "Formatting",
+            "Scanning"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which software protects against viruses?",
+        "options": [
+            "Browser",
+            "Antivirus",
+            "Compiler",
+            "Editor"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which one is a strong password?",
+        "options": [
+            "123456",
+            "password",
+            "Anu@2026#Tech",
+            "abcdef"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Cyber Security",
+        "question": "HTTPS is more secure than?",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "POP3"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which attack sends fake emails?",
+        "options": [
+            "Phishing",
+            "DDoS",
+            "SQL Injection",
+            "Brute Force"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which attack tries many passwords automatically?",
+        "options": [
+            "Phishing",
+            "Brute Force",
+            "Spoofing",
+            "Scanning"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which malware demands money from users?",
+        "options": [
+            "Trojan",
+            "Virus",
+            "Ransomware",
+            "Spyware"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Cyber Security",
+        "question": "What is the full form of OTP?",
+        "options": [
+            "One Time Password",
+            "Only Time Password",
+            "Online Text Password",
+            "Open Transfer Password"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which device filters network traffic?",
+        "options": [
+            "Router",
+            "Firewall",
+            "Printer",
+            "Scanner"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which malware secretly collects user information?",
+        "options": [
+            "Spyware",
+            "Adware",
+            "Trojan",
+            "Ransomware"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "What does DDoS stand for?",
+        "options": [
+            "Distributed Denial of Service",
+            "Direct Denial of Service",
+            "Distributed Data Service",
+            "Digital Denial System"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which one is an authentication method?",
+        "options": [
+            "Password",
+            "Monitor",
+            "Speaker",
+            "Printer"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which attack injects malicious SQL code?",
+        "options": [
+            "XSS",
+            "SQL Injection",
+            "Phishing",
+            "DDoS"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which protocol encrypts websites?",
+        "options": [
+            "HTTP",
+            "HTTPS",
+            "FTP",
+            "SMTP"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which security practice uses two verification steps?",
+        "options": [
+            "Firewall",
+            "Antivirus",
+            "Two-Factor Authentication",
+            "VPN"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which malware spreads by attaching to files?",
+        "options": [
+            "Virus",
+            "Firewall",
+            "VPN",
+            "Router"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Which tool monitors network packets?",
+        "options": [
+            "Wireshark",
+            "Chrome",
+            "Photoshop",
+            "Excel"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Cyber Security",
+        "question": "Cyber Security protects ______.",
+        "options": [
+            "Networks and Data",
+            "Only Hardware",
+            "Only Software",
+            "Only Monitors"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "CPU stands for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Processing Unit",
+            "Central Program Unit",
+            "Computer Program Unit"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "RAM stands for?",
+        "options": [
+            "Random Access Memory",
+            "Read Access Memory",
+            "Run Access Memory",
+            "Ready Access Memory"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which device is used to enter data into a computer?",
+        "options": [
+            "Monitor",
+            "Keyboard",
+            "Printer",
+            "Speaker"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which device displays output?",
+        "options": [
+            "Monitor",
+            "Mouse",
+            "Scanner",
+            "Keyboard"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which device prints documents?",
+        "options": [
+            "Monitor",
+            "Printer",
+            "Speaker",
+            "Projector"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which storage device has the largest capacity?",
+        "options": [
+            "CD",
+            "DVD",
+            "Hard Disk",
+            "Floppy Disk"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which is an input device?",
+        "options": [
+            "Mouse",
+            "Printer",
+            "Speaker",
+            "Monitor"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which is an output device?",
+        "options": [
+            "Keyboard",
+            "Scanner",
+            "Speaker",
+            "Mouse"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "What does USB stand for?",
+        "options": [
+            "Universal Serial Bus",
+            "United System Bus",
+            "Universal System Board",
+            "Unique Serial Bus"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which memory is permanent?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Cache",
+            "Register"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which software manages computer hardware?",
+        "options": [
+            "Application Software",
+            "Operating System",
+            "Browser",
+            "Compiler"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which key is used to delete the character on the left?",
+        "options": [
+            "Delete",
+            "Backspace",
+            "Esc",
+            "Enter"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which key is used to refresh a webpage?",
+        "options": [
+            "F2",
+            "F5",
+            "F10",
+            "F12"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which shortcut copies selected text?",
+        "options": [
+            "Ctrl + X",
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + Z"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which shortcut pastes copied text?",
+        "options": [
+            "Ctrl + P",
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + X"
+        ],
+        "answer": 2
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which shortcut cuts selected text?",
+        "options": [
+            "Ctrl + X",
+            "Ctrl + C",
+            "Ctrl + V",
+            "Ctrl + A"
+        ],
+        "answer": 0
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which shortcut selects all text?",
+        "options": [
+            "Ctrl + S",
+            "Ctrl + A",
+            "Ctrl + P",
+            "Ctrl + N"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which software is used for browsing the Internet?",
+        "options": [
+            "MS Word",
+            "Google Chrome",
+            "Paint",
+            "Calculator"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "Which component is called the brain of the computer?",
+        "options": [
+            "RAM",
+            "CPU",
+            "ROM",
+            "Hard Disk"
+        ],
+        "answer": 1
+    },
+    {
+        "category": "Computer Fundamentals",
+        "question": "A computer works on which system?",
+        "options": [
+            "Decimal",
+            "Binary",
+            "Octal",
+            "Hexadecimal"
+        ],
+        "answer": 1
+    }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz | TechQuiz Pro</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <i class="fa-solid fa-brain"></i>
+                <h2>TechQuiz Pro</h2>
+            </div>
+
+            <ul class="nav-links">
+                <li>
+                    <a href="index.html">
+                        <i class="fa-solid fa-arrow-left"></i> Quit Quiz
+                    </a>
+                </li>
+                <li>
+                    <a href="category.html">
+                        <i class="fa-solid fa-list"></i> Categories
+                    </a>
+                </li>
+            </ul>
+            <div id="authArea"></div>
+        </nav>
+    </header>
+
+    <section class="category-section">
+        <h3 id="questionNumber"></h3>
+        <p id="timer"></p>
+        <h2 id="question"></h2>
+        <br>
+        <div id="options"></div>
+        <br>
+        <div class="next-btn-container">
+            <button id="nextBtn" class="category-btn">
+                Next Question
+            </button>
+        </div>
+    </section>
+
+    <script src="../js/data.js"></script>
+    <script src="../js/auth.js"></script>
+    <script src="../js/quiz.js"></script>
+</body>
+</html>

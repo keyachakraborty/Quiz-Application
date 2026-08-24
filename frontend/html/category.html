@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Select Category | TechQuiz Pro</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+
+            <div class="logo">
+                <i class="fa-solid fa-brain"></i>
+                <h2>TechQuiz Pro</h2>
+            </div>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#">Categories</a></li>
+            </ul>
+
+            <div id="authArea"></div>
+
+        </nav>
+    </header>
+
+    <section class="category-section">
+
+        <h1>Select Your Category</h1>
+
+        <p>Choose a category and test your skills.</p>
+
+        <!-- Error Message -->
+        <p id="errorMsg" class="error-message"></p>
+
+        <div class="category-container">
+
+            <div class="category-card">
+                <i class="fa-brands fa-html5"></i>
+                <h2>HTML & CSS</h2>
+                <p>Basics of Web Design</p>
+                <span>20 Questions | Easy</span>
+                <button class="category-btn" data-category="HTML & CSS">
+                    Start Quiz
+                </button>
+            </div>
+
+            <div class="category-card">
+                <i class="fa-brands fa-js"></i>
+                <h2>JavaScript</h2>
+                <p>Programming Fundamentals</p>
+                <span>20 Questions | Medium</span>
+                <button class="category-btn" data-category="JavaScript">
+                    Start Quiz
+                </button>
+            </div>
+
+            <div class="category-card">
+                <i class="fa-solid fa-database"></i>
+                <h2>Database</h2>
+                <p>SQL & DBMS</p>
+                <span>20 Questions | Medium</span>
+                <button class="category-btn" data-category="Database">
+                    Start Quiz
+                </button>
+            </div>
+
+            <div class="category-card">
+                <i class="fa-brands fa-linux"></i>
+                <h2>Linux</h2>
+                <p>Commands & Operating System</p>
+                <span>20 Questions | Medium</span>
+                <button class="category-btn" data-category="Linux">
+                    Start Quiz
+                </button>
+            </div>
+
+            <div class="category-card">
+                <i class="fa-solid fa-shield-halved"></i>
+                <h2>Cyber Security</h2>
+                <p>Network & Security</p>
+                <span>20 Questions | Hard</span>
+                <button class="category-btn" data-category="Cyber Security">
+                    Start Quiz
+                </button>
+            </div>
+
+            <div class="category-card">
+                <i class="fa-solid fa-desktop"></i>
+                <h2>Computer Fundamentals</h2>
+                <p>Computer Basics</p>
+                <span>20 Questions | Easy</span>
+                <button class="category-btn" data-category="Computer Fundamentals">
+                    Start Quiz
+                </button>
+            </div>
+
+        </div>
+
+    </section>
+
+    <script src="../js/auth.js"></script>
+    <script src="../js/category.js"></script>
+</body>
+
+</html>

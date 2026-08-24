@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My History - TechQuiz Pro</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <i class="fa-solid fa-brain"></i>
+                <h2>TechQuiz Pro</h2>
+            </div>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="category.html">Categories</a></li>
+            </ul>
+
+            <div id="authArea"></div>
+        </nav>
+    </header>
+
+    <section class="history-section">
+        <h1><i class="fa-solid fa-clock-rotate-left"></i> My Quiz History</h1>
+        <p class="subtitle">Every quiz you've completed while logged in</p>
+
+        <div class="history-stats" id="historyStats"></div>
+
+        <div class="history-list" id="historyList">
+            <div class="history-row header-row">
+                <span>Category</span>
+                <span>Score</span>
+                <span>Total Qs</span>
+                <span>Date</span>
+                <span></span>
+            </div>
+            <div id="historyRows"></div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 TechQuiz Pro</p>
+    </footer>
+
+    <script src="../js/auth.js"></script>
+    <script src="../js/history.js"></script>
+</body>
+
+</html>

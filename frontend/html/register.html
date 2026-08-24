@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register - TechQuiz Pro</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar">
+            <div class="logo">
+                <i class="fa-solid fa-brain"></i>
+                <h2>TechQuiz Pro</h2>
+            </div>
+
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="category.html">Categories</a></li>
+            </ul>
+
+            <div id="authArea"></div>
+        </nav>
+    </header>
+
+    <section class="auth-section">
+        <div class="auth-card">
+            <h1><i class="fa-solid fa-user-plus"></i> Create Account</h1>
+            <p>Sign up to track your quiz history and progress.</p>
+
+            <form class="auth-form" id="registerForm">
+                <div>
+                    <label for="name">Name</label>
+                    <input type="text" id="name" placeholder="Your name" required>
+                </div>
+
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" placeholder="you@example.com" required>
+                </div>
+
+                <div>
+                    <label for="password">Password</label>
+                    <input type="password" id="password" placeholder="At least 6 characters" required minlength="6">
+                </div>
+
+                <p class="auth-message" id="authMessage"></p>
+
+                <button type="submit" class="btn" id="registerBtn">Create Account</button>
+            </form>
+
+            <p class="auth-switch">
+                Already have an account? <a href="login.html">Login here</a>
+            </p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 TechQuiz Pro</p>
+    </footer>
+
+    <script src="../js/auth.js"></script>
+    <script src="../js/register.js"></script>
+</body>
+
+</html>
