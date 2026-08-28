@@ -95,15 +95,16 @@ Nodemon| Development server
 
 Project Structure
 
+## Project Structure
+
+```text
 TechQuiz Pro/
 │
 ├── backend/
-│   │
 │   ├── server.js
 │   ├── package.json
 │   │
 │   └── src/
-│       │
 │       ├── app.js
 │       │
 │       ├── controllers/
@@ -134,7 +135,6 @@ TechQuiz Pro/
 │           └── quiz.route.js
 │
 ├── frontend/
-│   │
 │   ├── assets/
 │   │   └── favicon.ico
 │   │
