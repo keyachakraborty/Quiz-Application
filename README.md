@@ -4,7 +4,7 @@ A full-stack technical quiz platform built with HTML, CSS, JavaScript, Node.js, 
 
 TechQuiz Pro provides an interactive platform where users can create an account, choose a technical category, attempt timed quizzes, receive instant feedback, view results, save scores, compete on leaderboards, review quiz history, and generate printable completion certificates.
 
----
+
 
 Features
 
@@ -62,7 +62,7 @@ Certificate
 - Print-friendly certificate
 - Browser-based print/save functionality
 
----
+
 
 Tech Stack
 
@@ -91,13 +91,12 @@ cookie-parser| Cookie handling
 dotenv| Environment configuration
 Nodemon| Development server
 
----
 
 Project Structure
 
 ## Project Structure
 
-```text
+
 TechQuiz Pro/
 │
 ├── backend/
@@ -167,7 +166,7 @@ TechQuiz Pro/
 ├
 └── README.md
 
----
+
 
 Application Flow
 
@@ -193,7 +192,7 @@ Leaderboard
   ↓
 Certificate
 
----
+
 
 Authentication Flow
 
@@ -208,7 +207,7 @@ Authentication Flow
 9. Authentication middleware verifies the JWT.
 10. Backend identifies the authenticated user and provides access to protected resources.
 
----
+
 
 Database
 
@@ -241,7 +240,7 @@ Stores:
 - Attempt information
 - Date/time
 
----
+
 
 API Modules
 
@@ -279,7 +278,7 @@ Handles:
 - Category filtering
 - Attempt deletion
 
----
+
 
 Getting Started
 
@@ -322,7 +321,6 @@ http://localhost:5000
 
 Open the "frontend" folder using a local development server such as Live Server.
 
----
 
 Security
 
@@ -336,14 +334,21 @@ The application uses:
 - CORS configuration
 - Secure database authentication
 
----
+## Live Demo:
+
+Try the deployed version of TechQuiz Pro:
+
+**Live Website:** https://bucolic-parfait-3c532f.netlify.app/
+
+The frontend is deployed using Netlify.
+
 
 Team Project
 
 TechQuiz Pro was developed as a 4-member team project.
 
 
----
+
 
 Future Improvements
 
@@ -357,7 +362,7 @@ Future Improvements
 - Multiplayer quiz mode
 - Progressive Web App support
 
----
+
 
 License
 
