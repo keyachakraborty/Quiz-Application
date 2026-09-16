@@ -1,10 +1,6 @@
-TechQuiz Pro
-
-A full-stack technical quiz platform built with HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and JWT authentication.
-
 TechQuiz Pro provides an interactive platform where users can create an account, choose a technical category, attempt timed quizzes, receive instant feedback, view results, save scores, compete on leaderboards, review quiz history, and generate printable completion certificates.
 
-
+---
 
 Features
 
@@ -62,7 +58,7 @@ Certificate
 - Print-friendly certificate
 - Browser-based print/save functionality
 
-
+---
 
 Tech Stack
 
@@ -91,108 +87,109 @@ cookie-parser| Cookie handling
 dotenv| Environment configuration
 Nodemon| Development server
 
+---
 
 Project Structure
 
 ## Project Structure
 
-
+```text
 TechQuiz Pro/
 │
 ├── backend/
-│   ├── server.js
-│   ├── package.json
-│   │
-│   └── src/
-│       ├── app.js
-│       │
-│       ├── controllers/
-│       │   ├── auth.controller.js
-│       │   ├── history.controller.js
-│       │   ├── leaderboard.controller.js
-│       │   └── quiz.controller.js
-│       │
-│       ├── data/
-│       │   ├── importQuestions.js
-│       │   └── questions.json
-│       │
-│       ├── DB/
-│       │   └── db.connect.js
-│       │
-│       ├── middleware/
-│       │   └── auth.middleware.js
-│       │
-│       ├── models/
-│       │   ├── Question.model.js
-│       │   ├── Score.model.js
-│       │   └── User.model.js
-│       │
-│       └── routes/
-│           ├── auth.route.js
-│           ├── history.route.js
-│           ├── leaderboard.route.js
-│           └── quiz.route.js
+│ ├── server.js
+│ ├── package.json
+│ │
+│ └── src/
+│ ├── app.js
+│ │
+│ ├── controllers/
+│ │ ├── auth.controller.js
+│ │ ├── history.controller.js
+│ │ ├── leaderboard.controller.js
+│ │ └── quiz.controller.js
+│ │
+│ ├── data/
+│ │ ├── importQuestions.js
+│ │ └── questions.json
+│ │
+│ ├── DB/
+│ │ └── db.connect.js
+│ │
+│ ├── middleware/
+│ │ └── auth.middleware.js
+│ │
+│ ├── models/
+│ │ ├── Question.model.js
+│ │ ├── Score.model.js
+│ │ └── User.model.js
+│ │
+│ └── routes/
+│ ├── auth.route.js
+│ ├── history.route.js
+│ ├── leaderboard.route.js
+│ └── quiz.route.js
 │
 ├── frontend/
-│   ├── assets/
-│   │   └── favicon.ico
-│   │
-│   ├── css/
-│   │   ├── certificate.css
-│   │   └── style.css
-│   │
-│   ├── html/
-│   │   ├── index.html
-│   │   ├── login.html
-│   │   ├── register.html
-│   │   ├── category.html
-│   │   ├── quiz.html
-│   │   ├── result.html
-│   │   ├── history.html
-│   │   └── certificate.html
-│   │
-│   └── js/
-│       ├── auth.js
-│       ├── category.js
-│       ├── certificate.js
-│       ├── data.js
-│       ├── history.js
-│       ├── home.js
-│       ├── login.js
-│       ├── quiz.js
-│       ├── register.js
-│       └── result.js
+│ ├── assets/
+│ │ └── favicon.ico
+│ │
+│ ├── css/
+│ │ ├── certificate.css
+│ │ └── style.css
+│ │
+│ ├── html/
+│ │ ├── index.html
+│ │ ├── login.html
+│ │ ├── register.html
+│ │ ├── category.html
+│ │ ├── quiz.html
+│ │ ├── result.html
+│ │ ├── history.html
+│ │ └── certificate.html
+│ │
+│ └── js/
+│ ├── auth.js
+│ ├── category.js
+│ ├── certificate.js
+│ ├── data.js
+│ ├── history.js
+│ ├── home.js
+│ ├── login.js
+│ ├── quiz.js
+│ ├── register.js
+│ └── result.js
 │
 ├
 └── README.md
 
-
+---
 
 Application Flow
 
 User
-  ↓
+↓
 Register / Login
-  ↓
+↓
 JWT Authentication
-  ↓
+↓
 Select Quiz Category
-  ↓
+↓
 Start Quiz
-  ↓
+↓
 Answer Questions
-  ↓
+↓
 Score Calculation
-  ↓
+↓
 View Result
-  ↓
+↓
 Save Score / History
-  ↓
+↓
 Leaderboard
-  ↓
+↓
 Certificate
 
-
+---
 
 Authentication Flow
 
@@ -207,7 +204,7 @@ Authentication Flow
 9. Authentication middleware verifies the JWT.
 10. Backend identifies the authenticated user and provides access to protected resources.
 
-
+---
 
 Database
 
@@ -240,7 +237,7 @@ Stores:
 - Attempt information
 - Date/time
 
-
+---
 
 API Modules
 
@@ -278,7 +275,7 @@ Handles:
 - Category filtering
 - Attempt deletion
 
-
+---
 
 Getting Started
 
@@ -321,6 +318,7 @@ http://localhost:5000
 
 Open the "frontend" folder using a local development server such as Live Server.
 
+---
 
 Security
 
@@ -334,20 +332,20 @@ The application uses:
 - CORS configuration
 - Secure database authentication
 
-## Live Demo:
+---
+
+Team Project
+
+TechQuiz Pro was developed as a 4-member team project.
+
+---
+## Live Demo
 
 Try the deployed version of TechQuiz Pro:
 
 **Live Website:** https://bucolic-parfait-3c532f.netlify.app/
 
 The frontend is deployed using Netlify.
-
-
-Team Project
-
-TechQuiz Pro was developed as a 4-member team project.
-
-
 
 
 Future Improvements
@@ -362,14 +360,10 @@ Future Improvements
 - Multiplayer quiz mode
 - Progressive Web App support
 
-
+---
 
 License
 
 This project is licensed under the MIT License.
 
-
-
 GitHub: "keyachakraborty" (https://github.com/keyachakraborty)
-
-
